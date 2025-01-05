@@ -5,11 +5,7 @@ const c=()=>{
 }
 const b=()=>{
     console.log("bbbbbbbbbbbbb")
-    }
-
-
-
-
+}
 const h=()=>{
 console.log("hhhhhhhhhhhhh")
 }
