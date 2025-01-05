@@ -1,5 +1,5 @@
 //bs"d
-const c=()=>{
+const B=()=>{
     console.log("ccccccccccc")
 }
 const h=()=>{
